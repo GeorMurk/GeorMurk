@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Cash Information Management (CashIM)**
 - 🌱 I’m currently learning **AZURE and Digital Identies for Humanitarian action**
-- 💬 Ask me about **Python, Machine Learning, all things code:)**
+- 💬 Ask me about **Python, Machine Learning, all things code 😊🧑🏽‍💻**
 - 📫 How to reach me **georgemuraya@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
