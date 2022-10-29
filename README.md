@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murky</h1>
-<h3 align="center">A Data Analyst based in Nairobi,Kenya</h3>
+<h3 align="center">A Data Scientist based in Nairobi,Kenya</h3>
 
 - 🔭 I’m currently working as a **Cash Information Management (CashIM)**
 - 🌱 I’m currently learning **AZURE and Digital Identies for Humanitarian action**
