@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murky</h1>
+<h1 align="center">Hi 👋, I'm Murki</h1>
 <h3 align="center">A Data Scientist based in Nairobi,Kenya</h3>
 
 - 🔭 I’m currently working as a **Cash Information Management (CashIM)**
