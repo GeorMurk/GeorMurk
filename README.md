@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murki</h1>
 <h3 align="center">A Data Scientist based in Nairobi,Kenya</h3>
 
-- 🔭 I’m currently working as a **Cash Information Management (CashIM)**
+- 🔭 I’m currently working as a **Cash Voucher Assistance Information Management (CVA-IM)**
 - 🌱 I’m currently learning **AZURE and Digital Identies for Humanitarian action**
 - 💬 Ask me about **Python, Machine Learning, all things code 😊🧑🏽‍💻**
 - 📫 How to reach me **georgemuraya@gmail.com**
