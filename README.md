@@ -26,7 +26,7 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+      src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"
       alt="django"
       width="40"
       height="40"
