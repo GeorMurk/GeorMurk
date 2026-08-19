@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Murki</h1>
-<h3 align="center">A Data Scientist based in Nairobi,Kenya</h3>
+<h3 align="center">A Knowledgement Management Specilist based in Nairobi,Kenya</h3>
 
 - 🔭 I’m currently working as a **Information Management (IM)**
-- 🌱 I’m currently learning **AZURE and Digital Identies for Humanitarian action**
-- 💬 Ask me about **Python, Machine Learning, all things code 😊🧑🏽‍💻**
-- 📫 How to reach me **georgemuraya@gmail.com**
+- 🌱 I’m currently learning **Everything Intresting**
+- 💬 Ask me about **Python, Machine Learning 😊🧑🏽‍💻**
+- 📫 How to reach me **george@murayakiragu.co.ke**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
